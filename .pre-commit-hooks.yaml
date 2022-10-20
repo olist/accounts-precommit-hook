@@ -1,0 +1,5 @@
+- id: check-accounts-drf-version
+  name: check-accounts-drf-version
+  entry: check_version.sh
+  language: script
+  pass_filenames: false
